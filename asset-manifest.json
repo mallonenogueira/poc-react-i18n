@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/poc-react-i18n/static/js/main.f12968c3.chunk.js",
-    "main.js.map": "/poc-react-i18n/static/js/main.f12968c3.chunk.js.map",
+    "main.js": "/poc-react-i18n/static/js/main.63b41507.chunk.js",
+    "main.js.map": "/poc-react-i18n/static/js/main.63b41507.chunk.js.map",
     "runtime-main.js": "/poc-react-i18n/static/js/runtime-main.7663dc3f.js",
     "runtime-main.js.map": "/poc-react-i18n/static/js/runtime-main.7663dc3f.js.map",
     "static/js/2.518b6f88.chunk.js": "/poc-react-i18n/static/js/2.518b6f88.chunk.js",
@@ -13,6 +13,6 @@
   "entrypoints": [
     "static/js/runtime-main.7663dc3f.js",
     "static/js/2.518b6f88.chunk.js",
-    "static/js/main.f12968c3.chunk.js"
+    "static/js/main.63b41507.chunk.js"
   ]
 }
