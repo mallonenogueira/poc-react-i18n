@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/poc-react-i18n/static/js/main.f12968c3.chunk.js",
+    "main.js.map": "/poc-react-i18n/static/js/main.f12968c3.chunk.js.map",
+    "runtime-main.js": "/poc-react-i18n/static/js/runtime-main.7663dc3f.js",
+    "runtime-main.js.map": "/poc-react-i18n/static/js/runtime-main.7663dc3f.js.map",
+    "static/js/2.518b6f88.chunk.js": "/poc-react-i18n/static/js/2.518b6f88.chunk.js",
+    "static/js/2.518b6f88.chunk.js.map": "/poc-react-i18n/static/js/2.518b6f88.chunk.js.map",
+    "index.html": "/poc-react-i18n/index.html",
+    "static/js/2.518b6f88.chunk.js.LICENSE.txt": "/poc-react-i18n/static/js/2.518b6f88.chunk.js.LICENSE.txt",
+    "static/media/getFetch.cjs": "/poc-react-i18n/static/media/getFetch.582d29c4.cjs"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7663dc3f.js",
+    "static/js/2.518b6f88.chunk.js",
+    "static/js/main.f12968c3.chunk.js"
+  ]
+}
