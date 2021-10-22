@@ -1,0 +1,12 @@
+{
+  "titles": {
+    "app": "My application: {{title}}"
+  },
+  "labels": {
+    "lang": "Language:"
+  },
+  "languages": {
+    "pt": "Portuguese",
+    "en": "English"
+  }
+}
